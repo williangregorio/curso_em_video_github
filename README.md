@@ -1,1 +1,1 @@
-# curso_em_video_github
+# Curso em Vídeo - Gustavo Guanabara - Git e Github
